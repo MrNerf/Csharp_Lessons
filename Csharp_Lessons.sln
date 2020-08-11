@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndEvents", "DelegateAndEvents\DelegateAndEvents.csproj", "{CF6DFCCB-2621-487D-9622-60CC29C0E8B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitAndThreads", "AsyncAwaitAndThreads\AsyncAwaitAndThreads.csproj", "{2E3F7C39-E2A4-4E34-A443-29DE7AD5F318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF6DFCCB-2621-487D-9622-60CC29C0E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF6DFCCB-2621-487D-9622-60CC29C0E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF6DFCCB-2621-487D-9622-60CC29C0E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3F7C39-E2A4-4E34-A443-29DE7AD5F318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3F7C39-E2A4-4E34-A443-29DE7AD5F318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3F7C39-E2A4-4E34-A443-29DE7AD5F318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3F7C39-E2A4-4E34-A443-29DE7AD5F318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
