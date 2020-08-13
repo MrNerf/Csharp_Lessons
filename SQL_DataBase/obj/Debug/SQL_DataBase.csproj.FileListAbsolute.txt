@@ -1,0 +1,12 @@
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\SQL_DataBase.exe.config
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\SQL_DataBase.exe
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\SQL_DataBase.pdb
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\EntityFramework.dll
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\EntityFramework.xml
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\obj\Debug\SQL_DataBase.csprojAssemblyReference.cache
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\obj\Debug\SQL_DataBase.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\obj\Debug\SQL_DataBase.csproj.CopyComplete
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\obj\Debug\SQL_DataBase.exe
+D:\C#_Projects\Csharp_Lessons\SQL_DataBase\obj\Debug\SQL_DataBase.pdb
