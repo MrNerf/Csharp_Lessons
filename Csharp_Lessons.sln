@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_DataBase", "SQL_DataBas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesInSharp", "TypesInSharp\TypesInSharp.csproj", "{5E526095-D27B-432E-9645-4CE37C5ABA50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndStructures", "ArraysAndStructures\ArraysAndStructures.csproj", "{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5E526095-D27B-432E-9645-4CE37C5ABA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E526095-D27B-432E-9645-4CE37C5ABA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E526095-D27B-432E-9645-4CE37C5ABA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

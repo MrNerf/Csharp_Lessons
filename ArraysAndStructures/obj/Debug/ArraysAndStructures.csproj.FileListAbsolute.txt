@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\bin\Debug\ArraysAndStructures.exe.config
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\bin\Debug\ArraysAndStructures.exe
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\bin\Debug\ArraysAndStructures.pdb
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\obj\Debug\ArraysAndStructures.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\obj\Debug\ArraysAndStructures.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\obj\Debug\ArraysAndStructures.exe
+E:\Programming\C#\Csharp_Lessons\ArraysAndStructures\obj\Debug\ArraysAndStructures.pdb
