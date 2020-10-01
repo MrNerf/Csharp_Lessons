@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\ClassExample\bin\Debug\ClassExample.exe.config
+E:\Programming\C#\Csharp_Lessons\ClassExample\bin\Debug\ClassExample.exe
+E:\Programming\C#\Csharp_Lessons\ClassExample\bin\Debug\ClassExample.pdb
+E:\Programming\C#\Csharp_Lessons\ClassExample\obj\Debug\ClassExample.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\ClassExample\obj\Debug\ClassExample.exe
+E:\Programming\C#\Csharp_Lessons\ClassExample\obj\Debug\ClassExample.pdb

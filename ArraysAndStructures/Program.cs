@@ -60,6 +60,18 @@ namespace ArraysAndStructures
             DisplayMessage(backgroundColor: ConsoleColor.White);
             Console.WriteLine("Изменим цвет текста и сам текст");
             DisplayMessage(ConsoleColor.Cyan, message: "Новый текст");
+            Console.WriteLine();
+            Console.WriteLine();
+            EnumExample();
+            Console.WriteLine();
+            Console.WriteLine();
+            EnumMethods();
+            Console.WriteLine();
+            Console.WriteLine();
+            CartageFunc();
+            Console.WriteLine();
+            Console.WriteLine();
+            CartageAsReturnParameter();
             Console.ReadLine();
         }
 
@@ -180,6 +192,107 @@ namespace ArraysAndStructures
             Console.BackgroundColor = oldBack;
             Console.ForegroundColor = oldText;
         }
+        #endregion
+
+        #region Enums
+
+        private enum Workers
+        {
+            Student = 500,
+            Manager,
+            Leader,
+            Boss
+        }
+        //Перечсисление имеет тип  byte
+        private enum BWorkers: byte
+        {
+            Student = 0xF0,
+            Manager,
+            Leader
+        }
+
+        private static void EnumExample()
+        {
+            Console.WriteLine("-> Пример использования перечислений");
+            var worker = Workers.Student;
+            EnumFunction(worker);
+            worker++;
+            EnumFunction(worker);
+            worker++;
+            EnumFunction(worker);
+            worker++;
+            EnumFunction(worker);
+            static void EnumFunction(Workers workers)
+            {
+                switch (workers)
+                {
+                    case Workers.Student:
+                        Console.WriteLine("Вы студент");
+                        break;
+                    case Workers.Manager:
+                        Console.WriteLine("Вы менеджер");
+                        break;
+                    case Workers.Leader:
+                        Console.WriteLine("Вы начальник отдела");
+                        break;
+                    case Workers.Boss:
+                        Console.WriteLine("Вы босс");
+                        break;
+                    default:
+                        throw new ArgumentOutOfRangeException(nameof(workers), workers, null);
+                }
+            }
+        }
+
+        private static void EnumMethods()
+        {
+            Console.WriteLine("Пример использование методов перечислений");
+            var byteWorker = BWorkers.Student;
+            Console.WriteLine($"Перечисление имеет тип: {Enum.GetUnderlyingType(byteWorker.GetType())}");
+            byteWorker = BWorkers.Manager;
+            Console.WriteLine($"{Enum.GetName(byteWorker.GetType(), byteWorker)}, {byteWorker}");
+            byteWorker = BWorkers.Leader;
+            Console.WriteLine($"{Enum.Format(byteWorker.GetType(), byteWorker, "X")}");
+        }
+        #endregion
+
+        #region Cortages
+
+        private static void CartageFunc()
+        {
+            var cartage = ("parameter", 1, true, 0xFF);
+            Console.WriteLine($"First parameter {cartage.Item1}");
+            Console.WriteLine($"Second parameter {cartage.Item2}");
+            Console.WriteLine($"Third parameter {cartage.Item3}");
+            Console.WriteLine($"Fourth parameter {cartage.Item4}");
+
+            var (name, age, status) = ("Steven", 49, false);
+            Console.WriteLine($"First parameter {name}");
+            Console.WriteLine($"Second parameter {age}");
+            Console.WriteLine($"Third parameter {status}");
+        }
+
+        struct Point
+        {
+            private readonly int _x;
+            private readonly int _y;
+
+            public Point(int xPos, int yPos)
+            {
+                _x = xPos;
+                _y = yPos;
+            }
+
+            public (int XPos, int Ypos) Deconstruct() => (_x, _y);
+        }
+
+        private static void CartageAsReturnParameter()
+        {
+            var point = new Point(15,48);
+            var cartage = point.Deconstruct();
+            Console.WriteLine($"Значения структуры:\nПервое значение: {cartage.XPos}\tВторое значение {cartage.Ypos}");
+        }
+
         #endregion
     }
 }

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesInSharp", "TypesInShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndStructures", "ArraysAndStructures\ArraysAndStructures.csproj", "{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample", "ClassExample\ClassExample.csproj", "{5D80AED9-2474-4FD5-97E2-FC8C9374C528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incapsulation", "Incapsulation\Incapsulation.csproj", "{946A696A-AD1D-41E6-9942-175683E5B67A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08F5AFEC-2845-4072-A2F2-B9D9C0A606F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D80AED9-2474-4FD5-97E2-FC8C9374C528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D80AED9-2474-4FD5-97E2-FC8C9374C528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D80AED9-2474-4FD5-97E2-FC8C9374C528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D80AED9-2474-4FD5-97E2-FC8C9374C528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946A696A-AD1D-41E6-9942-175683E5B67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946A696A-AD1D-41E6-9942-175683E5B67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946A696A-AD1D-41E6-9942-175683E5B67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946A696A-AD1D-41E6-9942-175683E5B67A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
