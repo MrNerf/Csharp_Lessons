@@ -14,7 +14,7 @@ namespace BasicInheritance
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             var car = new Car(120){CurrentSpeed = 90};
             Console.WriteLine($"Текущая машина может имеет максимальную скорость: {car.MaxSpeed}км/ч, движется сос коростью {car.CurrentSpeed}км/ч");
-            var miniVan = new MiniVan() {CurrentSpeed = 40, SeatCnt = 9};
+            var miniVan = new MiniVan {CurrentSpeed = 40, SeatCnt = 9};
             Console.WriteLine($"Мини вэн едет со скоростью {miniVan.CurrentSpeed}км/ч, вмещает в себя {miniVan.SeatCnt} человек, максимальная скорость {miniVan.MaxSpeed}км/ч");
             Console.WriteLine();
             Console.WriteLine();
@@ -40,9 +40,23 @@ namespace BasicInheritance
             Console.WriteLine("Abstract class");
             Console.WriteLine();
             Shape[] shapes = {new Hexagon(), new Circle(), new Circle("Betty"), new Hexagon("Zelda")};
+            foreach (var shape in shapes) shape.Draw();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Использование ключевого слова As проверяет объект на null и позволяет выполнять то что требуется");
+            Console.WriteLine("Пример использования ключевого слова As");
+            Console.WriteLine();
+            foreach (var itemShape in shapes)
+                if ((itemShape as Hexagon) == null)
+                    Console.WriteLine("Item is not Hexagon");
+                else
+                    itemShape.Draw();
             foreach (var shape in shapes)
             {
-                shape.Draw();
+                if (shape is Circle)
+                    shape.Draw();
+                else
+                    Console.WriteLine("Shape is not Circle");
             }
             Console.ReadLine();
         }
