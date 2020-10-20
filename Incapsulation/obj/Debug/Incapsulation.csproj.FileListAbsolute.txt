@@ -1,7 +1,0 @@
-E:\Programming\C#\Csharp_Lessons\Incapsulation\bin\Debug\Incapsulation.exe.config
-E:\Programming\C#\Csharp_Lessons\Incapsulation\bin\Debug\Incapsulation.exe
-E:\Programming\C#\Csharp_Lessons\Incapsulation\bin\Debug\Incapsulation.pdb
-E:\Programming\C#\Csharp_Lessons\Incapsulation\obj\Debug\Incapsulation.csprojAssemblyReference.cache
-E:\Programming\C#\Csharp_Lessons\Incapsulation\obj\Debug\Incapsulation.csproj.CoreCompileInputs.cache
-E:\Programming\C#\Csharp_Lessons\Incapsulation\obj\Debug\Incapsulation.exe
-E:\Programming\C#\Csharp_Lessons\Incapsulation\obj\Debug\Incapsulation.pdb

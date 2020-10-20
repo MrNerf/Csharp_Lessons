@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\bin\Debug\EmployeeApp.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\bin\Debug\EmployeeApp.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\obj\Debug\EmployeeApp.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\obj\Debug\EmployeeApp.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_5-6_OOP\EmployeeApp\obj\Debug\EmployeeApp.pdb

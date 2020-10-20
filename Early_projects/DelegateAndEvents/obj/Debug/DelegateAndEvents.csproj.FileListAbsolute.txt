@@ -1,0 +1,14 @@
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe.config
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\bin\Debug\DelegateAndEvents.pdb
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\obj\Debug\DelegateAndEvents.csprojAssemblyReference.cache
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\obj\Debug\DelegateAndEvents.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\obj\Debug\DelegateAndEvents.exe
+D:\C#_Projects\Csharp_Lessons\DelegateAndEvents\obj\Debug\DelegateAndEvents.pdb
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe.config
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\bin\Debug\DelegateAndEvents.pdb
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\obj\Debug\DelegateAndEvents.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\obj\Debug\DelegateAndEvents.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\obj\Debug\DelegateAndEvents.exe
+E:\Programming\C#\Csharp_Lessons\Early_projects\DelegateAndEvents\obj\Debug\DelegateAndEvents.pdb

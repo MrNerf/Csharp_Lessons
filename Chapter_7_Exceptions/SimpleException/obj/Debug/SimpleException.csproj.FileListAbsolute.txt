@@ -1,0 +1,14 @@
+E:\Programming\C#\Csharp_Lessons\SimpleException\bin\Debug\SimpleException.exe.config
+E:\Programming\C#\Csharp_Lessons\SimpleException\bin\Debug\SimpleException.exe
+E:\Programming\C#\Csharp_Lessons\SimpleException\bin\Debug\SimpleException.pdb
+E:\Programming\C#\Csharp_Lessons\SimpleException\obj\Debug\SimpleException.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\SimpleException\obj\Debug\SimpleException.exe
+E:\Programming\C#\Csharp_Lessons\SimpleException\obj\Debug\SimpleException.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\bin\Debug\SimpleException.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\bin\Debug\SimpleException.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\bin\Debug\SimpleException.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\obj\Debug\SimpleException.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\obj\Debug\SimpleException.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\SimpleException\obj\Debug\SimpleException.pdb

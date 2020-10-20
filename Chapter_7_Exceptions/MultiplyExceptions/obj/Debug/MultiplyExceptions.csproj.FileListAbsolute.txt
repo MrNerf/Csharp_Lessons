@@ -1,0 +1,13 @@
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\bin\Debug\MultiplyExceptions.exe.config
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\bin\Debug\MultiplyExceptions.exe
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\bin\Debug\MultiplyExceptions.pdb
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\obj\Debug\MultiplyExceptions.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\obj\Debug\MultiplyExceptions.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\obj\Debug\MultiplyExceptions.exe
+E:\Programming\C#\Csharp_Lessons\MultiplyExceptions\obj\Debug\MultiplyExceptions.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\MultiplyExceptions\bin\Debug\MultiplyExceptions.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\MultiplyExceptions\bin\Debug\MultiplyExceptions.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\MultiplyExceptions\bin\Debug\MultiplyExceptions.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\MultiplyExceptions\obj\Debug\MultiplyExceptions.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\MultiplyExceptions\obj\Debug\MultiplyExceptions.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_7_Exceptions\MultiplyExceptions\obj\Debug\MultiplyExceptions.pdb

@@ -1,7 +1,0 @@
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\bin\Debug\AsyncAwaitAndThreads.exe.config
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\bin\Debug\AsyncAwaitAndThreads.exe
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\bin\Debug\AsyncAwaitAndThreads.pdb
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\obj\Debug\AsyncAwaitAndThreads.csprojAssemblyReference.cache
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\obj\Debug\AsyncAwaitAndThreads.csproj.CoreCompileInputs.cache
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\obj\Debug\AsyncAwaitAndThreads.exe
-D:\C#_Projects\Csharp_Lessons\AsyncAwaitAndThreads\obj\Debug\AsyncAwaitAndThreads.pdb

@@ -1,7 +1,0 @@
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\bin\Debug\TypesInSharp.exe.config
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\bin\Debug\TypesInSharp.exe
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\bin\Debug\TypesInSharp.pdb
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\obj\Debug\TypesInSharp.csprojAssemblyReference.cache
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\obj\Debug\TypesInSharp.csproj.CoreCompileInputs.cache
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\obj\Debug\TypesInSharp.exe
-E:\Programming\C#\Csharp_Lessons\TypesInSharp\obj\Debug\TypesInSharp.pdb
