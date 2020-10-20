@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\CustomInterface\bin\Debug\CustomInterface.exe.config
+E:\Programming\C#\Csharp_Lessons\CustomInterface\bin\Debug\CustomInterface.exe
+E:\Programming\C#\Csharp_Lessons\CustomInterface\bin\Debug\CustomInterface.pdb
+E:\Programming\C#\Csharp_Lessons\CustomInterface\obj\Debug\CustomInterface.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\CustomInterface\obj\Debug\CustomInterface.exe
+E:\Programming\C#\Csharp_Lessons\CustomInterface\obj\Debug\CustomInterface.pdb

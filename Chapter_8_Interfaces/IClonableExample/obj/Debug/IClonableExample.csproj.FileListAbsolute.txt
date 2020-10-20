@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\bin\Debug\IClonableExample.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\bin\Debug\IClonableExample.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\bin\Debug\IClonableExample.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\obj\Debug\IClonableExample.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\obj\Debug\IClonableExample.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\obj\Debug\IClonableExample.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\IClonableExample\obj\Debug\IClonableExample.pdb
