@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\bin\Debug\CloneablePoint.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\bin\Debug\CloneablePoint.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\bin\Debug\CloneablePoint.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\obj\Debug\CloneablePoint.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\obj\Debug\CloneablePoint.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\obj\Debug\CloneablePoint.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\ClonablePoint\obj\Debug\CloneablePoint.pdb

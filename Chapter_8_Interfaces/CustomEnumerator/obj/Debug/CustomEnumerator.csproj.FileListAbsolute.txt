@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\obj\Debug\CustomEnumerator.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

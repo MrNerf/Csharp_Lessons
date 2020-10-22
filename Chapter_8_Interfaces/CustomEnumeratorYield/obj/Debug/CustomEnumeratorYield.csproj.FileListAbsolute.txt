@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\bin\Debug\CustomEnumeratorYield.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\bin\Debug\CustomEnumeratorYield.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\bin\Debug\CustomEnumeratorYield.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\obj\Debug\CustomEnumeratorYield.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\obj\Debug\CustomEnumeratorYield.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\obj\Debug\CustomEnumeratorYield.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_8_Interfaces\CustomEnumeratorYield\obj\Debug\CustomEnumeratorYield.pdb
