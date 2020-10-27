@@ -1,0 +1,6 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\CustomGenericMethods\obj\Debug\CustomGenericMethods.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

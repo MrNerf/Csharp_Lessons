@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\bin\Debug\ObservableCollections.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\bin\Debug\ObservableCollections.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\bin\Debug\ObservableCollections.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\obj\Debug\ObservableCollections.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\obj\Debug\ObservableCollections.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\obj\Debug\ObservableCollections.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\ObservableCollections\obj\Debug\ObservableCollections.csprojAssemblyReference.cache

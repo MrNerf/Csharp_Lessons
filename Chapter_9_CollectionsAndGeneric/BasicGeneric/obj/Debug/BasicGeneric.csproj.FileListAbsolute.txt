@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\bin\Debug\BasicGeneric.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\bin\Debug\BasicGeneric.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\bin\Debug\BasicGeneric.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\obj\Debug\BasicGeneric.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\obj\Debug\BasicGeneric.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\obj\Debug\BasicGeneric.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\BasicGeneric\obj\Debug\BasicGeneric.pdb

@@ -1,0 +1,6 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\GenericPoint\bin\Debug\GenericPoint.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\GenericPoint\bin\Debug\GenericPoint.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\GenericPoint\bin\Debug\GenericPoint.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\GenericPoint\obj\Debug\GenericPoint.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\GenericPoint\obj\Debug\GenericPoint.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_9_CollectionsAndGeneric\GenericPoint\obj\Debug\GenericPoint.pdb
