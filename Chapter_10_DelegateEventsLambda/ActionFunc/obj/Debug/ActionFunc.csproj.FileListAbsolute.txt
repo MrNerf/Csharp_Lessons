@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\bin\Debug\ActionFunc.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\bin\Debug\ActionFunc.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\bin\Debug\ActionFunc.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\obj\Debug\ActionFunc.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\obj\Debug\ActionFunc.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\obj\Debug\ActionFunc.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\ActionFunc\obj\Debug\ActionFunc.pdb

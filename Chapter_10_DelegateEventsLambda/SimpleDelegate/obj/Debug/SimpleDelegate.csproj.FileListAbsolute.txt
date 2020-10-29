@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
