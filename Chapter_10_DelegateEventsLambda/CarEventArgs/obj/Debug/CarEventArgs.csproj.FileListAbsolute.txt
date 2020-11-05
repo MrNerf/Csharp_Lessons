@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\bin\Debug\CarEventArgs.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\bin\Debug\CarEventArgs.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\bin\Debug\CarEventArgs.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\obj\Debug\CarEventArgs.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\obj\Debug\CarEventArgs.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\obj\Debug\CarEventArgs.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\CarEventArgs\obj\Debug\CarEventArgs.pdb

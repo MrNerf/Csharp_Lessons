@@ -1,0 +1,6 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\GenericCarEventArgs\bin\Debug\GenericCarEventArgs.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\GenericCarEventArgs\bin\Debug\GenericCarEventArgs.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\GenericCarEventArgs\bin\Debug\GenericCarEventArgs.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\GenericCarEventArgs\obj\Debug\GenericCarEventArgs.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\GenericCarEventArgs\obj\Debug\GenericCarEventArgs.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\GenericCarEventArgs\obj\Debug\GenericCarEventArgs.pdb
