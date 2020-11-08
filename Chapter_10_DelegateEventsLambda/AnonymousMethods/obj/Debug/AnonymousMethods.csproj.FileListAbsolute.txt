@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\obj\Debug\AnonymousMethods.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

@@ -1,0 +1,7 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojAssemblyReference.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb

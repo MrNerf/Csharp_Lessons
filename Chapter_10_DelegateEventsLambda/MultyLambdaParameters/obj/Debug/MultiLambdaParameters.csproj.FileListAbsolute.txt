@@ -1,0 +1,6 @@
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\MultyLambdaParameters\bin\Debug\MultiLambdaParameters.exe.config
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\MultyLambdaParameters\bin\Debug\MultiLambdaParameters.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\MultyLambdaParameters\bin\Debug\MultiLambdaParameters.pdb
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\MultyLambdaParameters\obj\Debug\MultiLambdaParameters.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\MultyLambdaParameters\obj\Debug\MultiLambdaParameters.exe
+E:\Programming\C#\Csharp_Lessons\Chapter_10_DelegateEventsLambda\MultyLambdaParameters\obj\Debug\MultiLambdaParameters.pdb
